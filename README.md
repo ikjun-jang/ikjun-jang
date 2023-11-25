@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on a movie review site
+- 🔭 I’m currently working on an MLOps client for video analysis
 - 🌱 I’m currently learning .NET and React
 <!--- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
